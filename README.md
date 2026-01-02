@@ -15,5 +15,3 @@ O'zbekiston Respublikasi Statistika qo'mitasi ochiq ma'lumotlari asosida tayyorl
 ## 📂 Ma'lumotlar manbasi
 [O'zbekiston Statistika qo'mitasi](https://stat.uz)
 
-## 📸 Skrinshotlar
-[Grafiklar rasmlarini qo'ying]
